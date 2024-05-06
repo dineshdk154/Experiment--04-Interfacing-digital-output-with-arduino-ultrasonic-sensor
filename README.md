@@ -1,4 +1,4 @@
-# EXP-04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
+#  EXP-04-Distance measurement using Ultrasonic sensor
 
 # DATE :25/03/2024
 # NAME :DINESH KUMAR M
